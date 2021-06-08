@@ -10,7 +10,7 @@ function oddity(n){
   if (count % 2 == 0) return 'even'
   return 'odd'
   }
-  
+   
   function oddity(n) {
       let count = 0; 
       for (let i = 1; i <= Math.sqrt(n) + 1; i++)  { 
